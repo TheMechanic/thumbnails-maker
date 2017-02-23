@@ -1,0 +1,31 @@
+{
+  "name": "thumbnails-maker",
+  "version": "1.0.0",
+  "description": "Generate thumbnails for each image in a given folder",
+  "main": "resizer.js",
+  "dependencies": {
+    "sharp": "^0.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMechanic/thumbnails-maker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "image",
+    "resizer",
+    "sharp",
+    "thumbnails",
+    "generate"
+  ],
+  "author": "Julien Dupont",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/TheMechanic/thumbnails-maker/issues"
+  },
+  "homepage": "https://github.com/TheMechanic/thumbnails-maker#readme"
+}
